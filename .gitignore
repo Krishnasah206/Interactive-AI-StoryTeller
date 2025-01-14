@@ -1,0 +1,72 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.pyenv/
+lib/
+Scripts/
+Include/
+share/
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite3
+
+# # Media
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
+# *.svg
+# *.mp4
+# *.mkv
+
+# Credentials and keys
+.env
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*~
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Testing
+.pytest_cache/
+.cache/
+
+# Miscellaneous
+*.DS_Store
+*.bak
+*.tmp
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
