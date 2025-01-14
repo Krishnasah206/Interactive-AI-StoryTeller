@@ -77,15 +77,15 @@ Follow these steps to set up the project locally:
 > **Note**: Add screenshots of your application's interface here.
 
 - **Login Page**  
-  <img scr="./images/login.png">
     ![Login Page](./images/login.png)
 
 - **Image Upload and Story Generation**  
-  <img scr="./images/upload.png">
+  <img scr="">
+  ![Image Upload](./images/upload.png)
 
 - **Generated Story**  
-  <img scr="./images/img1.png">
-  <img scr="./images/img2.png">
+  ![Generated Story 1](./images/img1.png)  
+  ![Generated Story 2](./images/img2.png)
 
 ## How It Works
 
