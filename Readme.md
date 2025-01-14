@@ -78,6 +78,7 @@ Follow these steps to set up the project locally:
 
 - **Login Page**  
   <img scr="./images/login.png">
+    ![Login Page](./images/login.png)
 
 - **Image Upload and Story Generation**  
   <img scr="./images/upload.png">
@@ -110,13 +111,3 @@ The main goal of this project was to explore the integration of image captioning
 - **Models**:
   - BLIP (Salesforce) for image captioning
   - OpenAI's GPT-3.5 for text generation
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-- **Name**: Krishna Kumar Sah
-- **Email**: [krishnasah2060@gmail.com]
-- **LinkedIn**: [https://www.linkedin.com/in/krishnasah2060]
